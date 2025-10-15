@@ -8,7 +8,7 @@ Il permet d’analyser plusieurs indicateurs à partir d’un fichier `data.json
 
 Voici un aperçu du tableau de bord :
 
-![Aperçu du Dashboard](images/dashboard-preview.png)
+![Aperçu du Dashboard](images/dashboard-preview.jpg)
 
 ---
 ##  Fonctionnalités
@@ -26,3 +26,4 @@ Voici un aperçu du tableau de bord :
   - **Graphique à barres (Bar Chart)** : Marges bénéficiaires
   - **Graphique linéaire (Line Chart)** : Comparaison des revenus et coûts
   - **Graphique linéaire secondaire** : Croissance
+
