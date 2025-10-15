@@ -1,0 +1,50 @@
+[
+  {
+    "segment": "Cloud Services",
+    "revenue": 42500,
+    "cost": 25000,
+    "growth": 12.5,
+    "clients": 320,
+    "region": "Global"
+  },
+  {
+    "segment": "Enterprise Software",
+    "revenue": 31200,
+    "cost": 18000,
+    "growth": 8.9,
+    "clients": 210,
+    "region": "Europe"
+  },
+  {
+    "segment": "Cybersecurity",
+    "revenue": 28900,
+    "cost": 16000,
+    "growth": 14.2,
+    "clients": 180,
+    "region": "Amérique du Nord"
+  },
+  {
+    "segment": "Data Analytics",
+    "revenue": 19800,
+    "cost": 12000,
+    "growth": 6.4,
+    "clients": 140,
+    "region": "Asie"
+  },
+  {
+    "segment": "IA & Machine Learning",
+    "revenue": 15600,
+    "cost": 11000,
+    "growth": 18.3,
+    "clients": 90,
+    "region": "Global"
+  },
+  {
+    "segment": "Solutions IoT",
+    "revenue": 8400,
+    "cost": 5200,
+    "growth": 9.7,
+    "clients": 60,
+    "region": "Europe"
+  }
+]
